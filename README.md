@@ -40,4 +40,4 @@
 Setelah environment berhasil disiapkan, jalankan aplikasi dashboard Streamlit dengan perintah berikut:
 
 ```bash
-streamlit run dashboard/dashboard.py
+streamlit run dashboard.py
